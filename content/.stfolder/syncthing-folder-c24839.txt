@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: ~/vaults/work/Notes/VERTEX/Building
-created: 2025-12-01T16:28:42-03:00

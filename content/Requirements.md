@@ -31,7 +31,7 @@ tags: []
 
 ### Controle de baia
 
-- [[BaiaTool (interno)]] x solução de mercado (A definir)
+- [[BaiaTool]] (Interno) x solução de mercado (A definir)
 - Identificação de usuário
 - Reserva de baia
 - Visualização de disponibilidade de baias
@@ -39,7 +39,7 @@ tags: []
 
 ### Controle de sala de reunião
 
-- [[Central de Controle de Sala (interno)]] x solução de mercado (A definir)
+- [[Central de Controle de Sala]] (Interno) x solução de mercado (A definir)
 - Controle de:
   - Iluminação
   - Temperatura

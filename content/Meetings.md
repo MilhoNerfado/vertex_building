@@ -4,6 +4,6 @@ aliases: []
 tags: []
 ---
 
-# Index of Meetings
+# Index das reuniões
 
-- [[2025/11/27 - Reunião com Arquiteta]]
+- [Reuinião com a Arquiteta](meetings/2025/11/27)
